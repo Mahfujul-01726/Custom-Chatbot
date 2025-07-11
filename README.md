@@ -22,8 +22,8 @@ To set up the project locally, follow these steps:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your_username/QnA-Chatbot-With-Gradio.git
-    cd QnA-Chatbot-With-Gradio
+    git clone https://github.com/mahfujul-01726/Custom-Chatbot.git
+    cd Custom-Chatbot
     ```
 
 2.  **Create a virtual environment** (recommended):
@@ -50,7 +50,6 @@ To run the chatbot, execute the `app.py` file:
 ```bash
 python app.py
 ```
-
 Once the application is running, open your web browser and navigate to the local URL provided by Gradio (usually `http://127.0.0.1:7860/`).
 
 ## Code Quality and Maintainability Enhancements

@@ -1,10 +1,11 @@
 # QnA Chatbot With Gradio
 
-This is a QnA Chatbot built with Gradio, powered by OpenAI's GPT models.
+This is a QnA Chatbot built with Gradio.
 
 ## Hugging Face Space
 
-You can find a live demo of this chatbot on Hugging Face Spaces here: <mcurl name="Chatbot - a Hugging Face Space by mahfuj735" url="https://huggingface.co/spaces/mahfuj735/Chatbot"></mcurl>
+You can find a live demo of this chatbot on Hugging Face Spaces here: [Chatbot - a Hugging Face Space by mahfuj735](https://huggingface.co/spaces/mahfuj735/Chatbot)
+
 
 ## Description
 This is a simple Question and Answer chatbot built using Python and the Gradio library. It allows users to interact with a chatbot interface to ask questions and receive answers.
